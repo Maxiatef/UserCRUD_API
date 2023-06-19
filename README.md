@@ -10,3 +10,8 @@ This is a CRUD (Create, Read, Update, Delete) API built using JavaScript and Mon
 - Get user information
 - Update user information
 - Delete a user
+
+##.env
+
+- you have to create your own .env file
+- containing : port, mongo name, mongo password, the dbname, jwt_secret and Access token
