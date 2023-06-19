@@ -12,10 +12,7 @@ This is a CRUD (Create, Read, Update, Delete) API built using JavaScript and Mon
 - Delete a user
 
 ## How to run
-- First, you will have to open new terminal in the project
-- type " npm i "   : to install the node module
-
-## dotenv
-
-- you have to create your own .env file
-- containing : port, mongo name, mongo password, the dbname, jwt_secret and Access token
+- First, you will have to open new terminal in the project.
+- Type " npm i "   : to install the node module.
+- You have to create your own .env file.
+- Dotenv file you will configure the port, mongo name, mongo password, the dbname, jwt_secret and Access token.
