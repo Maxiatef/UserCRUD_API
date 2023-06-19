@@ -11,6 +11,10 @@ This is a CRUD (Create, Read, Update, Delete) API built using JavaScript and Mon
 - Update user information
 - Delete a user
 
+## How to run
+-First, you will have to open new terminal in the project
+- type " npm i "   : to install the node module
+
 ## dotenv
 
 - you have to create your own .env file
